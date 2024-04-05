@@ -1,0 +1,794 @@
+    /* section-1 */
+
+.ganesh
+{
+    background: rgb(102, 101, 101);
+    width: 100%;
+    height: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.gana
+{
+    float: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    color: white;
+}
+.gani i
+{
+    padding-top: 10px;
+    margin-left: 25px;
+    color: white;
+}
+
+    /* section-2 */
+
+.same
+{
+    width: 100%;
+    height: 200px;
+    background: rgb(243, 227, 227);
+    position: sticky;
+    top: 0px;
+}
+.satya img
+{
+    height: 175px;
+    margin-left: 100px;
+    float: left;
+    margin-top: 13px;
+}.sai
+{
+    padding-top: 110px;
+    float: left;
+}
+
+.sai span
+{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.sankar
+{
+    padding-top: 90px;
+}
+.sankar button:hover
+{
+    background: bottom rgb(207, 240, 240);
+    transition: 1s;
+    color: black;
+    border: transparent;
+
+}
+.sankar button
+{
+    margin-left: 200px;
+    width: 130px;
+    height: 35px;
+    border-radius: 30px;
+    background: gray;
+    color: white;
+
+}
+
+    /* section-3 */
+
+.bike 
+{
+    position: relative;
+    width: 100%;
+}
+.bike img
+{
+    width: 100%;
+    height: 600px;
+    opacity: 0.5;
+}
+
+
+.sub1{
+    position: absolute;
+    width: 60%;
+    top: 50px;
+}
+.sub1 button
+{
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 30px;
+    height: 60px;
+    width: 255px;
+    background: white;
+    border: none;
+    font-size: 15px;
+    
+}
+.sub1 button:hover
+{
+    background: lightblue;
+    transition: 3s;
+    color: white;
+    border: 2px solid black;
+}
+.sub1 h1
+{
+    margin-left: 160px;
+    font-size: 50px;
+}
+.sub1 p
+{
+    margin-left: 160px;
+    font-size: 20px;
+}
+.sub2 
+{
+    position: absolute;
+    top: 2px;
+    margin-top: 480px;
+    margin-left: 150px;
+}
+.sub2 button
+{
+    width: 255px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    background: lightgray;
+}
+.sub2 button:hover
+{
+    background: black;
+    color: white;
+    transition: 2s;
+}
+.sub3
+{
+    position: absolute;
+    top: 2px;
+    margin-top: 480px;
+    margin-left: 430px;
+}
+.sub3 button
+{
+    width: 255px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    background: rgb(218, 218, 90);
+}
+.sub3 button:hover
+{
+    background: black;
+    color: white;
+    transition: 2s;
+}
+
+
+    /* section-4 */
+
+.maa
+{
+    width: 100%;
+    height: 700px;
+}
+.amma img
+{
+    width: 500px;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 110px;
+    margin-right: 75px;
+    border-radius: 30px;
+}
+.mama 
+{
+    padding-top: 70px;
+    padding-left: 166px;
+}
+.mava
+{
+  height: 300px;
+  width: 200px;
+  float: left;
+  margin-left: 166px; 
+}
+
+.mava i 
+{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.money
+{
+    height: 300px;
+    width: 200px;
+    margin-left: 400px;
+}
+.money i
+{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+    /* section-5 */
+
+.mad
+{
+    width: 100%;
+    height: 600px;
+    background: lightgray;
+}
+.mad i{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.mad p
+{
+    margin-left: 10px;
+}
+.mad a
+{
+    
+    color: black;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+.mad1
+{
+    text-align: center;
+    padding-top: 50px;
+}
+.mad1 h4
+{
+    color: rgb(236, 104, 104);
+}
+
+.mad2
+{
+    height: 300px;
+    width: 250px;
+    background: white;
+    border-radius: 35px;
+    margin-top: 40px;
+    margin-left: 120px;
+    float: left;
+
+
+}
+.mad2:hover
+{
+    background: lightseagreen;
+    transition: 1s;
+    border: 2px solid black;
+}
+
+.mad3
+{
+    height: 300px;
+    width: 250px;
+    background: white;
+    margin-top: 40px;
+    border-radius: 35px;
+    margin-left: 20px;
+    float: left;
+   
+}
+.mad3:hover
+{
+    background: lightseagreen;
+    transition: 1s;
+    border: 2px solid black;
+}
+
+.mad4
+{
+    height: 300px;
+    width: 250px;
+    background: white;
+    margin-top: 40px;
+    border-radius: 35px;
+    margin-left: 20px;
+    float: left;
+
+}
+.mad4:hover
+{
+    background: lightseagreen;
+    transition: 1s;
+    border: 2px solid black;
+}
+
+.mad5
+{
+    height: 300px;
+    width: 250px;
+    background: white;
+    margin-top: 55px;
+    border-radius: 35px;
+    margin-left: 940px;
+
+}
+.mad5:hover
+{
+    background: lightseagreen;
+    transition: 1s;
+    border: 2px solid black;
+}
+
+    /* section-6 */
+
+.love
+{
+    width: 100%;
+    height: 500px;
+}
+
+.love1
+{
+    height: 430px;
+    width: 300px;
+    background: lightgray;
+    margin-top: 30px;
+    margin-left: 135px;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+}
+.love1 h4
+{
+    margin-top: 75px;
+    color: rgb(155, 91, 91);
+}
+.love1 button
+{
+    background: lightblue;
+    border-radius: 15px;
+    margin-top: 25px;
+    height: 50px;
+    width: 175px;
+}
+.love1 button:hover
+{
+    background: rgb(240, 180, 237);
+}
+
+.love2
+{
+    height: 200px;
+    width: 250px;
+    background: rgb(230, 229, 229);
+    box-shadow: 5px 5px rgb(117, 116, 116);
+    float: left;
+    margin-top: 4px;
+    margin-left: 90px;
+}
+.love2 i
+{
+    margin-left: 10px;
+}
+.love2 h3
+{
+    margin-left: 10px;
+}
+.love2 p{
+    margin-left: 10px;
+}
+
+
+.love3
+{
+    height: 200px;
+    width: 250px;
+    background: rgb(230, 229, 229);
+    box-shadow: 5px 5px rgb(117, 116, 116);
+    margin-top: 10px;
+    margin-left: 865px;
+    
+
+}.love3 i
+{
+    margin-left: 10px;
+}
+.love3 h3
+{
+    margin-left: 10px;
+}
+.love3 p{
+    margin-left: 10px;
+}
+.love4
+{
+    height: 200px;
+    width: 250px;
+    background: rgb(230, 229, 229);
+    box-shadow: 5px 5px rgb(117, 116, 116);
+    float: left;
+    margin-top: 53px;
+    margin-left: -252px;
+}
+.love4 i
+{
+    margin-left: 10px;
+}
+.love4 h3
+{
+    margin-left: 10px;
+}
+.love4 p{
+    margin-left: 10px;
+}
+.love5
+{
+    height: 200px;
+    width: 250px;
+    background: rgb(230, 229, 229);
+    box-shadow: 5px 5px rgb(117, 116, 116);
+    margin-top: 53px;
+    margin-left: 865px;
+}
+.love5 i
+{
+    margin-left: 10px;
+}
+.love5 h3
+{
+    margin-left: 10px;
+}
+.love5 p{
+    margin-left: 10px;
+}
+
+    /* section-7 */
+
+.time 
+{
+    width: 100%;
+    height: 600px;
+    background: rgb(175, 173, 173);
+}   
+.time1 img
+{
+    margin-top: 50px;
+    margin-left: 40px;
+} 
+.time2 
+{
+    height: 250px;
+    width: 525px;
+    padding-top: 30px;
+    margin-left: 685px;
+}
+.time2 h3
+{
+    color: rgb(160, 104, 104);
+}
+.time3
+{
+    height: 250px;
+    width: 270px;
+    float: left;
+    margin-top: -225px;
+    margin-left: 685px;
+}
+.time3 h1
+{
+    margin-top: 15px;
+}
+.time4
+{
+    height: 250px;
+    width: 270px;
+    margin-top: 35px;
+    margin-left: 980px;
+}
+.time4 h1
+{
+    margin-top: 50px;
+}
+
+    /* section-8 */
+
+.pop
+{
+    width: 100%;
+    height: 400px;
+}
+.pop1
+{
+    padding-top: 30px;
+    text-align: center;
+}
+.pop1 h3
+{
+    color: rgb(56, 73, 78);
+}
+.pop2 
+{
+   height: 150px;
+   width: 200px;
+   float: left;
+   margin-top: 40px;
+   margin-left: 100px;
+
+}
+.pop2 i
+{
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+.pop2 h1
+{
+    text-align: center;
+}
+.pop2 p
+{
+    font-size: 15px;
+}
+.pop3
+{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.pop3 i
+{
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+.pop3 h1
+{
+    text-align: center;
+}
+.pop3 p
+{
+    font-size: 15px;
+}
+.pop4
+{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.pop4 i
+{
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+.pop4 h1
+{
+    text-align: center;
+}
+.pop4 p
+{
+    font-size: 15px;
+}
+.pop5
+{
+    height: 150px;
+    width: 200px;
+    margin-top: 55px;
+    margin-left: 825px;
+}
+.pop5 i
+{
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+.pop5 h1
+{
+    text-align: center;
+    padding-top: 21px;
+}
+.pop5 p
+{
+    font-size: 15px;
+}
+
+    /* section-9 */
+
+.nav
+{
+    position: relative;
+}
+.nav img
+{
+    width: 100%;
+    opacity: 0.8;
+} 
+.nav1
+{
+    position: absolute;
+    height: 200px;
+    width: 70%;
+    top: 50px;
+    margin-left: 210px;
+    text-align: center;
+} 
+.nav1 h3
+{
+    color: rgb(221, 136, 136);
+}
+.nav h1
+{
+    font-size: 50px;
+}  
+.nav2
+{
+    position: absolute;
+    height: 200px;
+    width: 80%;
+    text-align: center;
+    top: 50px;
+    margin-top: 255px;
+    margin-left: 160px;
+}
+.nav2 i
+{
+    font-size: 110px;
+    margin-top: 5px;
+}
+
+.nav11
+{
+    height: 200px;
+    width: 18%;
+    border: 2px solid black;
+    margin-left: 100px;
+    float: left;
+
+}
+.nav22
+{
+    height: 200px;
+    width: 18%;
+    border: 2px solid black;
+    margin-left: 30px;
+    float: left;
+
+}
+.nav33
+{
+    height: 200px;
+    width: 18%;
+    border: 2px solid black;
+    margin-left: 30px;
+    float: left;
+}
+.nav44
+{
+    height: 200px;
+    width: 18%;
+    border: 2px solid black;
+    margin-left: 770px;
+}
+
+
+    /* section-10 */
+
+ .last 
+{
+    width: 100%;
+    height: 600px;
+    background: rgb(124, 118, 118);
+}
+.last1
+{
+    height: 560px;
+    width: 350px;
+    float: left;
+    padding-top: 30px;
+    margin-left: 70px;
+}
+.first1
+{
+    height: 170px;
+    width: 100%;
+    background: white;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.first1 h2
+{
+    margin-left: 15px;
+    padding-top: 25px;
+}
+.first1 p
+{
+    margin-left: 15px;
+}
+.first2
+{
+    height: 170px;
+    width: 100%;
+    background: white;
+    margin-top: 50px;
+    border-radius: 30px;   
+}
+.first2 h2
+{
+    margin-left: 15px;
+    padding-top: 25px;
+}
+.first2 p
+{
+    margin-left: 15px;
+}
+.last2
+{
+    height: 400px;
+    width: 200px;
+    color: white;
+    float: left;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.last2 h2
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.last2 li
+{
+    margin-left: 20px;
+    margin-top: 5px; 
+    font-size: 20px; 
+}
+.last3
+{
+    height: 400px;
+    width: 230px;
+    color: white; 
+    float: left;
+    margin-left: 30px;
+    margin-top: 70px; 
+}
+.last3 h2
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.last3 li
+{
+    margin-left: 20px;
+    margin-top: 5px; 
+    font-size: 20px; 
+}
+.last4
+{
+    height: 400px;
+    width: 250px;
+    float: left;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 70px; 
+}
+.form
+{
+    height: 173px;
+    width: 248px;
+    color: white;
+}    
+.form2
+{
+    height: 173px;
+    width: 248px;
+    color: white;
+    margin-top: 10px;
+}
